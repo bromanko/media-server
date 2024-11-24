@@ -1,1 +1,4 @@
-./downloads
+media
+cache
+es
+redis
